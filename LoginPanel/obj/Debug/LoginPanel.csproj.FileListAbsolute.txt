@@ -1,0 +1,33 @@
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe.config
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.pdb
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\Guna.UI2.dll
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csprojAssemblyReference.cache
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Form1.resources
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CopyComplete
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.pdb
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.dll
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\TelerikCommon.dll
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.xml
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Cyanid\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe.licenses
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe.config
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\LoginPanel.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\Guna.UI2.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.AssemblyReference.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Form1.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe.licenses
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CopyComplete
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\LoginPanel\LoginPanel\obj\Debug\LoginPanel.pdb
